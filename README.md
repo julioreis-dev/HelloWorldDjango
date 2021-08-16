@@ -2,7 +2,7 @@
 
 Código produzido como parte do artigo sobre Desenvolvimento Web com Django da Python Academy. 
 [Acesse aqui](https://pythonacademy.com.br/blog/desenvolvimento-web-com-python-e-django-introducao) 
-essa cópia tem por finalidade subsidiar a produção de conteúdo dos alunos que orienta no aprendisado de Django.
+essa cópia tem por finalidade subsidiar a produção de conteúdo dos alunos que orienta no aprendizado de Django.
 
 ## Instalação
 

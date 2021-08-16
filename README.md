@@ -14,6 +14,11 @@ sobre ambientes virtuais no Python](https://pythonacademy.com.br/blog/python-e-v
 Com seu ambiente virtual configurado, instale as dependências do projeto com:
 
 ```bash
+pip install Django
+```
+
+
+```bash
 pip install -r requirements.txt
 ```
 

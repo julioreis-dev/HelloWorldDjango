@@ -18,14 +18,9 @@ Com seu ambiente virtual configurado, instale as dependências do projeto com:
 pip install Django
 ```
 
-## Crie o arquivo requirements.txt, para catalogar todas as dependencias do projeto
+## Crie o arquivo requirements.txt, que irá conter as depências do projeto
 ```bash
 pip freeze > requirements.txt
-```
-
-
-```bash
-pip install -r requirements.txt
 ```
 
 Para criar as _Migrations_:

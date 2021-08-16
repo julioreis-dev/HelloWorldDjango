@@ -8,7 +8,7 @@ essa cópia tem por finalidade subsidiar a produção de conteúdo dos alunos qu
 
 Primeiro, recomenda-se a criação de um ambiente virtual. 
 
-_Quer saber mais ambientes virtuais? Então [acesse o link para nosso post 
+_Quer saber mais ambientes virtuais? Acesse [acesse o link para nosso post 
 sobre ambientes virtuais no Python](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais)!_
 
 Com seu ambiente virtual configurado, instale as dependências do projeto com:

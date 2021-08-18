@@ -35,6 +35,12 @@ Para efetivar as _Migrations_ no banco de dados:
 python manage.py migrate
 ```
 
+Para criar um super usuário:
+
+```bash
+python manage.py createsuperuser
+```
+
 ## Execução
 
 Para executar o servidor de testes do Django, execute:
